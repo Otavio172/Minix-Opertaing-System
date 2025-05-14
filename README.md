@@ -1,2 +1,6 @@
 # Minix-Opertaing-System-Installation
 This documentation describes the installation process of Minix OS which is a UNIX-like operating system designed for educational purposes, and has a microkernel architecture. It contains information about the filesystems it can work on and the ones it can't. Despite its small size, Minix remains a valuable tool for learning OS principles, file handling, and virtualization techniques. The documentation also contains a description about virtualization. It talks about what virtualization is, what it is used for and how it works.
+_________________________________________
+
+# System-Call-Implementation
+This documentation contains the description and implementation steps of the system call "chown" using the c programming language. It lists the required header file, the correct syntax, the expected return type and its values. It also shows how the implementation on Minix OS looks like. In Minix, chown can be used directly in the command line interface by any user with the right privileges or  by using it inside a c code and here we only used it inside a c code, and both of them have different syntax structures. The attached c code shows a correct usage of the system call on the right user and group and exception handling in case of errors.
