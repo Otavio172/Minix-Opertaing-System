@@ -1,2 +1,2 @@
 # Minix-Opertaing-System-Installation
-This repository contains a documentation of Minix OS installation and its history, and a description about virtualiation.
+This documentation describes the installation process of Minix OS which is a UNIX-like operating system designed for educational purposes, and has a microkernel architecture. It contains information about the filesystems it can work on and the ones it can't. Despite its small size, Minix remains a valuable tool for learning OS principles, file handling, and virtualization techniques. The documentation also contains a description about virtualization. It talks about what virtualization is, what it is used for and how it works.
